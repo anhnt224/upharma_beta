@@ -1,0 +1,1 @@
+import{_ as e,g as t,i as s}from"./index-aeb0aaad.js";const c={},n={class:"d-flex align-center justify-center fill-height"};function o(r,a,i,_,f,l){return t(),s("div",n)}const d=e(c,[["render",o]]);export{d as V};
